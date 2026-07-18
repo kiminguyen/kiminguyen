@@ -1,4 +1,4 @@
-# Kimberly Nguyen
+# Kimi Nguyen
 
 [![Hackathons](https://img.shields.io/badge/Hackathons-Student%20Builder-brightgreen?style=flat-square)](https://github.com/mlhacks)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kimnguyen-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kiminguyen/)
