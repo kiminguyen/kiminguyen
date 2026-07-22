@@ -13,7 +13,7 @@
 
 ## Featured Projects
 - 🧾 [readme](https://github.com/kiminguyen/readme) — A personal GitHub profile repository where I’m sharing more about myself and the work I’m building (YOU ARE READING IT NOW!!).
-- 🪝 [ReeledIn] (https://github.com/sxnnywu/reeled-in) - Put your reels through a model of the human brain (TRIBE V2) before posting.
+- 🪝 [ReeledIn](https://github.com/sxnnywu/reeled-in) - Put your reels through a model of the human brain (TRIBE V2) before posting.
 - 🚀 More projects coming soon — I’m continuously growing my portfolio and exploring new ideas.
 
 ## Tech & Interests
